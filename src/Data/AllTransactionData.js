@@ -1,0 +1,51 @@
+export const allTransactions = [
+  {
+    transactionId: "1",
+    customerId: "C001",
+    dateOfTransaction: "2024-09-15",
+    totalAmount: 120.5,
+    totalPoints: 20,
+  },
+  {
+    transactionId: "2",
+    customerId: "C002",
+    dateOfTransaction: "2024-09-20",
+    totalAmount: 200.0,
+    totalPoints: 40,
+  },
+  {
+    transactionId: "3",
+    customerId: "C001",
+    dateOfTransaction: "2024-10-05",
+    totalAmount: 80.0,
+    totalPoints: 10,
+  },
+  {
+    transactionId: "4",
+    customerId: "C003",
+    dateOfTransaction: "2024-10-15",
+    totalAmount: 300.0,
+    totalPoints: 60,
+  },
+  {
+    transactionId: "5",
+    customerId: "C002",
+    dateOfTransaction: "2024-11-03",
+    totalAmount: 150.75,
+    totalPoints: 30,
+  },
+  {
+    transactionId: "6",
+    customerId: "C003",
+    dateOfTransaction: "2024-11-10",
+    totalAmount: 500.0,
+    totalPoints: 100,
+  },
+  {
+    transactionId: "7",
+    customerId: "C001",
+    dateOfTransaction: "2024-11-15",
+    totalAmount: 220.5,
+    totalPoints: 45,
+  },
+];
